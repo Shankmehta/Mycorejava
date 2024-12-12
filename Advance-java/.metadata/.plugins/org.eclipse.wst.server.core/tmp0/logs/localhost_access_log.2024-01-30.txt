@@ -1,0 +1,17 @@
+127.0.0.1 - - [30/Jan/2024:21:57:39 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [30/Jan/2024:21:57:40 +0530] "GET /Cookies/books.html HTTP/1.1" 200 510
+0:0:0:0:0:0:0:1 - - [30/Jan/2024:21:57:40 +0530] "GET /favicon.ico HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [30/Jan/2024:21:57:48 +0530] "GET /Cookies/set?books1=Head+First+Java&books3=SCJP+By+Kathy+Siera HTTP/1.1" 404 767
+127.0.0.1 - - [30/Jan/2024:22:25:09 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [30/Jan/2024:22:25:10 +0530] "GET /Cookies/ HTTP/1.1" 404 764
+0:0:0:0:0:0:0:1 - - [30/Jan/2024:22:25:32 +0530] "GET /Cookies/books.html HTTP/1.1" 200 507
+0:0:0:0:0:0:0:1 - - [30/Jan/2024:22:25:44 +0530] "GET /Cookies/set?book1=Head+First+Java&book3=SCJP+By+Kathy+Siera HTTP/1.1" 404 767
+0:0:0:0:0:0:0:1 - - [30/Jan/2024:22:33:08 +0530] "GET /Cookies/ HTTP/1.1" 404 764
+0:0:0:0:0:0:0:1 - - [30/Jan/2024:22:33:17 +0530] "GET /Cookies/books.html HTTP/1.1" 200 500
+0:0:0:0:0:0:0:1 - - [30/Jan/2024:22:33:48 +0530] "GET /Cookies/set?book1=HeadFirstJava&book3=SCJPByKathySiera HTTP/1.1" 404 767
+0:0:0:0:0:0:0:1 - - [30/Jan/2024:22:35:41 +0530] "GET /Cookies/books.html HTTP/1.1" 200 506
+0:0:0:0:0:0:0:1 - - [30/Jan/2024:22:35:47 +0530] "GET /Cookies/setCookie?book1=HeadFirstJava&book3=SCJPByKathySiera HTTP/1.1" 404 773
+0:0:0:0:0:0:0:1 - - [30/Jan/2024:22:40:36 +0530] "GET /Cookies/books.html HTTP/1.1" 200 506
+0:0:0:0:0:0:0:1 - - [30/Jan/2024:22:40:41 +0530] "GET /Cookies/SetCookie?book3=SCJPByKathySiera HTTP/1.1" 404 773
+0:0:0:0:0:0:0:1 - - [30/Jan/2024:22:41:20 +0530] "GET /Cookies/books.html HTTP/1.1" 200 500
+0:0:0:0:0:0:0:1 - - [30/Jan/2024:22:41:26 +0530] "GET /Cookies/Set?book1=HeadFirstJava&book3=SCJPByKathySiera HTTP/1.1" 200 129

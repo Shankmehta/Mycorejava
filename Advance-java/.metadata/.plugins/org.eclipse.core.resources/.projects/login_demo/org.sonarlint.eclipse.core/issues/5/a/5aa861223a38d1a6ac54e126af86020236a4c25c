@@ -1,0 +1,15 @@
+
+ƒ
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.b 0577f63adde5deec5bb706e46c4be378h
+Y
+java:S1948"%Make "con" transient or serializable.b 7ed201fa20d25d22b291dc85ae9e5cedh
+n
+java:S1161":Add the "@Override" annotation above this method signatureb e37f0136aa3ffaf149b351f6a4c948e9h
+a
+java:S4925"-Remove this "Class.forName()", it is useless.b c78ca533dd9db31dc1aebe0b40b92535h
+j
+java:S6437"6Revoke and change this password, as it is compromised.b 5c452d842028c44c2d1761cd7959d69dh
+n
+java:S1161":Add the "@Override" annotation above this method signatureb afaa9e78302a844691c224dc41a65519h
+n
+java:S1161,":Add the "@Override" annotation above this method signatureb fb14982288108e1fbd6207ef55f05027h

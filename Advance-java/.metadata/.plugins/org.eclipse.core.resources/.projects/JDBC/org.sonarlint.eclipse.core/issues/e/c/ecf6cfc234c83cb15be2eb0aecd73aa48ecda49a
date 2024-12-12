@@ -1,0 +1,13 @@
+
+ç	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b ec6ef230f1828039ee794566b9c58adch
+{
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.b ba2e6ba8d305e7a59866d28630b665d2h
+|
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.b 0e8f3c84b75174b5340a421997c88723h
+j
+java:S6437"6Revoke and change this password, as it is compromised.b 5c452d842028c44c2d1761cd7959d69dh
+^	java:S106"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
