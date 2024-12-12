@@ -1,0 +1,6 @@
+
+ç	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b ec6ef230f1828039ee794566b9c58adch
+n
+java:S1118":Add a private constructor to hide the implicit public one.b bf733d8a933c1601697f364223fc7ecbh
+k
+java:S1612"7Replace this lambda with method reference 'Math::sqrt'.b b4d414045ddc319a7da99472065d3b35h

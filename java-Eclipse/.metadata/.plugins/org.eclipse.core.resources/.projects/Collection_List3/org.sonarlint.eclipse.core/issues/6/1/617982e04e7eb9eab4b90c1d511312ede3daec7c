@@ -1,0 +1,37 @@
+
+á
+java:S1602"SRemove useless curly braces around statement and then remove useless return keywordb f95b70fdc3088560732a5ac135644506h
+S
+java:S2129"Remove this "Float" constructorb 22ae0e2b89e5e3d477f988cc36d3272bh
+S
+java:S2129"Remove this "Float" constructorb 22ae0e2b89e5e3d477f988cc36d3272bh
+^	java:S106"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+c
+java:S1611"/Remove the parentheses around the "n" parameterb 84c40473414caf2ed4a7b1283e48bbf4h
+c
+java:S1611"/Remove the parentheses around the "k" parameterb 84c40473414caf2ed4a7b1283e48bbf4h
+^	java:S106#"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106""+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+S
+java:S2129"Remove this "Float" constructorb 22ae0e2b89e5e3d477f988cc36d3272bh
+S
+java:S2129"Remove this "Float" constructorb 22ae0e2b89e5e3d477f988cc36d3272bh
+c
+java:S1611"/Remove the parentheses around the "n" parameterb 84c40473414caf2ed4a7b1283e48bbf4h
+é
+java:S4276"ZRefactor this code to use the more specialised Functional Interface 'UnaryOperator<Float>'b cc4a8af1ee00c1193637952e4f00198fh
+`
+java:S1602",Remove useless curly braces around statementb f95b70fdc3088560732a5ac135644506h
+á
+java:S1602"SRemove useless curly braces around statement and then remove useless return keywordb f95b70fdc3088560732a5ac135644506h
+ç
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").b c20d109eafcde1aa0c42520af65e7efeh
+^	java:S106"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+ç	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b ec6ef230f1828039ee794566b9c58adch
+S
+java:S2129"Remove this "Float" constructorb 22ae0e2b89e5e3d477f988cc36d3272bh
+^	java:S106"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh

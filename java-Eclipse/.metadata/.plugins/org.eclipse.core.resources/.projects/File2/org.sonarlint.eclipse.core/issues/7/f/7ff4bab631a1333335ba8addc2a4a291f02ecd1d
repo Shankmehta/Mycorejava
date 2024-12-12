@@ -1,0 +1,9 @@
+
+ç	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b 1d665b9b1467944c128a5575119d1cfdh
+Ç
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.b d6ef6570036d3c1e672ce8537dfb2cech
+Ñ
+java:S2095"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.b 0387518b3ec499a7d136f993cbfda90bh
+^	java:S106"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh

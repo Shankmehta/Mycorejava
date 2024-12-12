@@ -1,0 +1,16 @@
+
+c
+java:S3740"/Provide the parametrized type for this generic.b 2af99bc28e2be6580a13b1048cde1709h
+Ñ
+java:S1104"PMake code a static final constant or non-public and provide accessors if needed.b c13367945d5d4c91047b3b50234aa7abh
+Ñ
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.b b068931cc450442b63f5b3d276ea4297h
+Ö
+java:S1104"QMake price a static final constant or non-public and provide accessors if needed.b 78a5eb43deef9a7b5b9ce157b9d52ac4h
+É
+java:S1104"OMake qty a static final constant or non-public and provide accessors if needed.b f44fc6cd274569fd327d9bccc761b066h
+ç	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b ec6ef230f1828039ee794566b9c58adch
+ç
+java:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.b 9c6977aa3ce5b94580e3f19b2777d663h
+V
+java:S1659""Declare "name" on a separate line.b b068931cc450442b63f5b3d276ea4297h

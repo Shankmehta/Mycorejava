@@ -1,0 +1,13 @@
+
+ç	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b ec6ef230f1828039ee794566b9c58adch
+d
+java:S2446"0"notify" may not wake up the appropriate thread.b a4510384236c8e83a0cf3b6d8b987aefh
+Ç
+java:S1104"NMake sb a static final constant or non-public and provide accessors if needed.b 26148d621ef74844918af182d63976b6h
+í
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.b 87831d8b20e9ee815cc1b41055ddc1eah
+^	java:S106"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+w
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".b c9fab33e9458412c527c3fe8a13ee37dh
+ì
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".b 44f2f3b7f27e0930b2cc3f6340e0ca94h

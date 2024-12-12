@@ -1,0 +1,147 @@
+
+ç
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").b 08a5b2522c63814918ebf904480e9dabh
+Ç
+java:S11923"NDefine a constant instead of duplicating this literal "List is empty" 6 times.b 07e2a26b9757f464283317e2af2a82f5h
+å
+java:S1192*"XDefine a constant instead of duplicating this literal "****Product-Details****" 8 times.b 13e40fa2cd6bbb2b697931a1177e43dch
+â
+java:S1192!"UDefine a constant instead of duplicating this literal "Enter the Prod-Code:" 3 times.b 7eec52ee6fbe80952203869d9593f4a6h
+è
+java:S1192 "[Define a constant instead of duplicating this literal "Enter the Product-details-" 3 times.b 41a7e21b566fb1fe9379db6647280042h
+à
+java:S1192'"TDefine a constant instead of duplicating this literal "Enter the Prod-Qty:" 3 times.b a63ebbb62c0e6bd0ae0b3216cde3ce10h
+ä
+java:S1192%"VDefine a constant instead of duplicating this literal "Enter the Prod-Price:" 3 times.b 5a727e5bd474f098a3af189a688a4355h
+â
+java:S1192#"UDefine a constant instead of duplicating this literal "Enter the Prod-Name:" 3 times.b 1b065c1982f4ce2e0622b2bceacad816h
+ç	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b 1d665b9b1467944c128a5575119d1cfdh
+V
+java:S2189""Add an end condition to this loop.b 69e2276b733de7627f52cc61f7f75299h
+Ü
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 78 to the 15 allowed.b fad58de7366495db4650cfefac2fcd61h
+^	java:S106"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+f
+java:S6126"2Replace this String concatenation with Text block.b 003d6f86b5f359944ba5eb4496a8fe7ch
+^	java:S106"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+Ä	java:S128Ñ"LEnd this switch case with an unconditional break, return or throw statement.b 21862daa8e83507405af1de2287bc01ch
+^	java:S106 "+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106!"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106#"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106%"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106'"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106*"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+c
+java:S1611+"/Remove the parentheses around the "k" parameterb 84c40473414caf2ed4a7b1283e48bbf4h
+`
+java:S1602,",Remove useless curly braces around statementb f95b70fdc3088560732a5ac135644506h
+t
+java:S1612+"@Replace this lambda with method reference 'System.out::println'.b b4d414045ddc319a7da99472065d3b35h
+^	java:S106-"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S1063"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S1067"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106;"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106<"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106>"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106@"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106B"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106E"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+c
+java:S1611F"/Remove the parentheses around the "k" parameterb 84c40473414caf2ed4a7b1283e48bbf4h
+`
+java:S1602G",Remove useless curly braces around statementb f95b70fdc3088560732a5ac135644506h
+t
+java:S1612F"@Replace this lambda with method reference 'System.out::println'.b b4d414045ddc319a7da99472065d3b35h
+^	java:S106H"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106M"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106U"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106Y"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106b"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106f"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+c
+java:S1611g"/Remove the parentheses around the "k" parameterb 84c40473414caf2ed4a7b1283e48bbf4h
+`
+java:S1602h",Remove useless curly braces around statementb f95b70fdc3088560732a5ac135644506h
+t
+java:S1612g"@Replace this lambda with method reference 'System.out::println'.b b4d414045ddc319a7da99472065d3b35h
+^	java:S106i"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106q"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106u"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106z"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106{"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+c
+java:S1611|"/Remove the parentheses around the "k" parameterb 84c40473414caf2ed4a7b1283e48bbf4h
+`
+java:S1602}",Remove useless curly braces around statementb f95b70fdc3088560732a5ac135644506h
+t
+java:S1612|"@Replace this lambda with method reference 'System.out::println'.b b4d414045ddc319a7da99472065d3b35h
+^	java:S106~"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106Ç"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106â"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106ç"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106í"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106ì"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106ï"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+d
+java:S1611ñ"/Remove the parentheses around the "k" parameterb 84c40473414caf2ed4a7b1283e48bbf4h
+a
+java:S1602ó",Remove useless curly braces around statementb f95b70fdc3088560732a5ac135644506h
+u
+java:S1612ñ"@Replace this lambda with method reference 'System.out::println'.b b4d414045ddc319a7da99472065d3b35h
+_	java:S106ò"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106ù"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106§"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106®"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106¨"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106≠"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106Ø"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106±"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106≥"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106∂"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+d
+java:S1611∑"/Remove the parentheses around the "k" parameterb 84c40473414caf2ed4a7b1283e48bbf4h
+a
+java:S1602∏",Remove useless curly braces around statementb f95b70fdc3088560732a5ac135644506h
+u
+java:S1612∑"@Replace this lambda with method reference 'System.out::println'.b b4d414045ddc319a7da99472065d3b35h
+_	java:S106π"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106æ"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106∆"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106À"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+d
+java:S1611Ã"/Remove the parentheses around the "k" parameterb 84c40473414caf2ed4a7b1283e48bbf4h
+a
+java:S1602Õ",Remove useless curly braces around statementb f95b70fdc3088560732a5ac135644506h
+u
+java:S1612Ã"@Replace this lambda with method reference 'System.out::println'.b b4d414045ddc319a7da99472065d3b35h
+_	java:S106Œ"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106÷"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106⁄"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106‚"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106„"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106Â"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106Ê"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106Í"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106Ó"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+d
+java:S1611Ô"/Remove the parentheses around the "k" parameterb 84c40473414caf2ed4a7b1283e48bbf4h
+a
+java:S1602",Remove useless curly braces around statementb f95b70fdc3088560732a5ac135644506h
+u
+java:S1612Ô"@Replace this lambda with method reference 'System.out::println'.b b4d414045ddc319a7da99472065d3b35h
+_	java:S106Ò"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106¯"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106¸"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+d
+java:S1611˛"/Remove the parentheses around the "k" parameterb 84c40473414caf2ed4a7b1283e48bbf4h
+a
+java:S1602ˇ",Remove useless curly braces around statementb f95b70fdc3088560732a5ac135644506h
+u
+java:S1612˛"@Replace this lambda with method reference 'System.out::println'.b b4d414045ddc319a7da99472065d3b35h
+_	java:S106Ä"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106Ö"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106à"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+˚
+java:S6541"∆A "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 261 to 64, Complexity from 32 to 14, Nesting Level from 7 to 2, Number of Variables from 39 to 6.b fad58de7366495db4650cfefac2fcd61h

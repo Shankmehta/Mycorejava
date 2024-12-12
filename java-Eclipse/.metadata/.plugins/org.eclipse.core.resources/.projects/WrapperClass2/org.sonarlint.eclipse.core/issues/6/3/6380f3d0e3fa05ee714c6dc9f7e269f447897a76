@@ -1,0 +1,24 @@
+
+U
+java:S2129"!Remove this "Integer" constructorb a0faef0851b4294c06f2b94bb1cb2044h
+S
+java:S2129
+"Remove this "Float" constructorb 22ae0e2b89e5e3d477f988cc36d3272bh
+W
+java:S2129"#Remove this "Character" constructorb 76a40e4f974fd895a0a2598c1cee28b4h
+U
+java:S2129"!Remove this "Boolean" constructorb 27226c864bac7454a8504f8edb15d95bh
+m
+java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.b e258212c635185e8c2712621259cbebbh
+o
+java:S2130";Use "Float.parseFloat" for this string-to-float conversion.b bd29cd613b19fc62a8645f302a63066fh
+u
+java:S2130"AUse "Boolean.parseBoolean" for this string-to-boolean conversion.b b6c670213ac3ebd949ada0f26d7b2082h
+^	java:S106"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106 "+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106!"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106""+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106#"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh

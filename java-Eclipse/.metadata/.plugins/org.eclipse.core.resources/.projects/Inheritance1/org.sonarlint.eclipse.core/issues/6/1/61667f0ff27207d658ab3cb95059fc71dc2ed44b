@@ -1,0 +1,14 @@
+
+Å
+java:S1104"MMake a a static final constant or non-public and provide accessors if needed.b 0cc175b9c0f1b6a831c399e269772661h
+Å
+java:S1104"MMake b a static final constant or non-public and provide accessors if needed.b 92eb5ffee6ae2fec3ad71c777531578fh
+[
+java:S1444"'Make this "public static b" field finalb 92eb5ffee6ae2fec3ad71c777531578fh
+ç	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b ec6ef230f1828039ee794566b9c58adch
+^	java:S106
+"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh

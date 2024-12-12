@@ -1,0 +1,40 @@
+
+^	java:S106)"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106N"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+	java:S128%"LEnd this switch case with an unconditional break, return or throw statement.b 889e5d35fc3ac7563d1cc823c1034e52h
+^	java:S106I"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+ç
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").b e204bcb7a1d997ac32cf2ef8abdad98fh
+^	java:S106A"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+f
+java:S6126/"2Replace this String concatenation with Text block.b 08a6e50076f358ad0657edaf3733abbbh
+V
+java:S2189""Add an end condition to this loop.b d1bbff0217b4c9e89d1ab2de3d57381dh
+^	java:S106,"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+U
+java:S21297"!Remove this "Integer" constructorb a0faef0851b4294c06f2b94bb1cb2044h
+^	java:S106="+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+ç	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b ec6ef230f1828039ee794566b9c58adch
+^	java:S106Q"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S1066"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+ç
+java:S2293""YReplace the type specification in this constructor call with the diamond operator ("<>").b e204bcb7a1d997ac32cf2ef8abdad98fh
+ç
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").b e204bcb7a1d997ac32cf2ef8abdad98fh
+^	java:S106"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106."+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+f
+java:S6126"2Replace this String concatenation with Text block.b db227319c6b7faefd1491bc1baab6d32h
+^	java:S106E"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106/"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+U
+java:S2129B"!Remove this "Integer" constructorb a0faef0851b4294c06f2b94bb1cb2044h
+^	java:S1068"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+o
+java:S1119-";Refactor the code to remove this label and the need for it.b d16fb36f0911f878998c136191af705eh
+^	java:S106&"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+Ü
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.b fad58de7366495db4650cfefac2fcd61h
+^	java:S1062"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh

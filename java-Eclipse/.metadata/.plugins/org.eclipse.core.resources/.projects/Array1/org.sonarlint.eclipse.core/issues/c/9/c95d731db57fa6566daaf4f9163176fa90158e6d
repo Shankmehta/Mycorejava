@@ -1,0 +1,26 @@
+
+^	java:S106"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^
+java:S1197"*Move the array designators [] to the type.b 22b5567571aa1c24f5d97ddb2eb28bd2h
+^	java:S106 "+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106&"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+a
+java:S1199
+"-Extract this nested code block into a method.b f95b70fdc3088560732a5ac135644506h
+^	java:S106("+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+c
+java:S1611+"/Remove the parentheses around the "k" parameterb 84c40473414caf2ed4a7b1283e48bbf4h
+c
+java:S1611$"/Remove the parentheses around the "k" parameterb 84c40473414caf2ed4a7b1283e48bbf4h
+^	java:S106"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106-"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+U
+java:S2129"!Remove this "Integer" constructorb a0faef0851b4294c06f2b94bb1cb2044h
+^	java:S106"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+`
+java:S1602,",Remove useless curly braces around statementb f95b70fdc3088560732a5ac135644506h
+`
+java:S1602%",Remove useless curly braces around statementb f95b70fdc3088560732a5ac135644506h
+^	java:S106""+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh

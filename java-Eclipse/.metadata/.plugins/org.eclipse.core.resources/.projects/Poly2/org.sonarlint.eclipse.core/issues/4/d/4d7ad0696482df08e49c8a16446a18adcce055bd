@@ -1,0 +1,6 @@
+
+ç	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b ec6ef230f1828039ee794566b9c58adch
+X
+java:S1659"$Declare "baccno" on a separate line.b 0c1459f6c87b42008797155eed6620f8h
+û
+java:S6206"jRefactor this class declaration to use 'record TransLog(long haccno, long baccno, float amt, Date dtime)'.b ad8b802d08961cc01d3cb7b3c61615b0h

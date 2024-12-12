@@ -1,0 +1,4 @@
+
+ç	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b ec6ef230f1828039ee794566b9c58adch
+Ç
+java:S1104"NMake ob a static final constant or non-public and provide accessors if needed.b 99faee4e1a331a7595932b7c18f9f5f6h
